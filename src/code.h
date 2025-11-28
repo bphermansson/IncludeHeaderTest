@@ -7,6 +7,7 @@
 
 // vars need to be extern
 extern String myName;
+extern float temp; 
 
 // prototypes don't need named attributes in the .h file
 void sayMyName(String);
